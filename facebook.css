@@ -1,0 +1,19 @@
+.section-haute{height: 100px; background-color:darkblue;}
+.sec-h-g{float: left;
+font-size: 70px;
+font-weight: bold;
+color: white;}
+.sec-h-d{font-weight: bold;
+margin-left: 650px; 
+color: white;
+}
+.sec-h-d1{margin-left: 1050px;}
+.btn{background-color: darkblue;
+border-color: darkblue;
+color: white;}
+.section-mid{height: 300px;
+    background-color: lightblue;}
+.mid-g{float: left;
+margin-top: 50px;
+margin-left: 70px;}
+.mid-d{margin-left: 750px;}

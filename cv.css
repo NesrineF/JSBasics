@@ -1,0 +1,31 @@
+.page{
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Nomphoto{
+    height: 100px;
+}
+.nom{float: left;}
+.nom1{font-weight: bold;}
+.id{font-weight: lighter;
+color: darkgray;}
+.photo{float: right;}
+.section{ margin-bottom: 5px;
+}
+.sec-gauche{ float: left;}
+.sec-droite{ margin-left: 450px;}
+.title1{font-weight: bold;
+font-style: italic;}
+.title2{font-size: 15px;}
+.title3{color: darkslategray;
+font-weight: lighter;}
+.line{width:100px;
+border-color: darkorchid;
+margin-left: 0px;}
+.line1{width:80px;
+    border-color:darkorchid;
+    margin-left: 0px;}
+    .line2{width:70px;
+            border-color:darkorchid;
+        margin-left: 0px;}
